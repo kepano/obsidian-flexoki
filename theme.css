@@ -61,11 +61,8 @@ body.theme-light {
   --color-base-60: #878580;
   --color-base-70: #6F6E69;
   --color-base-100: #100F0F;
-
-  --color-accent: var(--color-cyan);
-  --color-accent-1: var(--color-cyan);
-
 }
+
 body.theme-dark {
   --accent-h: 175;
   --accent-s: 49%;
@@ -85,7 +82,4 @@ body.theme-dark {
   --color-base-60: #6F6E69;
   --color-base-70: #878580;
   --color-base-100: #CECDC3;
-
-  --color-accent: #24837B;
-  --color-accent-1: #3AA99F;
 }
